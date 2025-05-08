@@ -3,9 +3,7 @@ import {
   businessModel,
   c2,c1,b3,b2,b1,a1,a2,a3,
   jayshri,rachna,
-  director,neel,aditi,saurabh,prachi,siddhi,netra,
-  shriya,nausheen,
-  satyam,rutuja,amey,divya,piyush,vaishnavi
+  director,neel,aditi,reshav,darshan, monika, akshay, sujal, yadynee, harshada, tanmay, shubhangi,
 } from "../assets";
 
 export const navLinks = [
@@ -43,7 +41,7 @@ export const navLinks = [
 const events = [
   {
     title: "NEC Finals at E-Summit, IIT Bombay",
-    icon: innobuzz, // Replace with the appropriate icon variable or import
+    icon: innobuzz,
     iconBg: "#383E56",
     date: "1st & 2nd February, 2025",
     points: [
@@ -115,7 +113,7 @@ const teams = {
     {
       name: "Aditi Khetan",
       designation: "President",
-      url:amey,
+      url:aditi,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -124,7 +122,7 @@ const teams = {
     {
       name: "Neel Chavan",
       designation: "Secretary",
-      url: rutuja,
+      url: neel,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -139,7 +137,7 @@ const teams = {
     {
       name: "Akshay Mortale",
       designation: "Innovation Activities",
-      url: divya,
+      url: akshay,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -147,8 +145,8 @@ const teams = {
     },
     {
       name: "Monika Pal",
-      designation: "Corporate Relation",
-      url: amey,
+      designation: "Corporate Relations",
+      url: monika,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -157,7 +155,7 @@ const teams = {
     {
       name: "Reshav Sharma",
       designation: "Research & Development",
-      url: satyam,
+      url: reshav,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -165,8 +163,8 @@ const teams = {
     },
     {
       name: "Sujal Khandagle",
-      designation: "Corporate Relation",
-      url: vaishnavi,
+      designation: "Public Relation",
+      url: sujal,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -179,8 +177,8 @@ const teams = {
   Jmember: [
     {
       name: "Shubhangi Pawar",
-      designation: "Member",
-      url: neel,
+      designation: "General Operations",
+      url: shubhangi,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -188,8 +186,8 @@ const teams = {
     },
     {
       name: "Darshan Singh",
-      designation: "Member",
-      url: aditi,
+      designation: "Financial Activities",
+      url: darshan,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -197,8 +195,8 @@ const teams = {
     },
     {
       name: "Tanmay Khanorkar",
-      designation: "Member",
-      url: nausheen,
+      designation: "Project Head",
+      url: tanmay,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -206,8 +204,8 @@ const teams = {
     },
     {
       name: "Harshada Vidhate",
-      designation: "Member",
-      url: saurabh,
+      designation: "Media Head",
+      url: harshada,
       ilink: "#",
       flink: "#",
       llink: "#",
@@ -215,8 +213,8 @@ const teams = {
     },
     {
       name: "Yadynee Naik",
-      designation: "Member",
-      url: shriya,
+      designation: "Content Head",
+      url: yadynee,
       ilink: "#",
       flink: "#",
       llink: "#",

@@ -20,29 +20,29 @@ import kautilya from './WingImages/FEC-Kautilya Logo.png'
 
 
 
-import piyush from './Team/rushi.jpg'
 import rutuja from './Team/dummy.jpg'
 
 
 import satyam from './Team/dummy.jpg'
 import amey from './Team/dummy.jpg'
-import prachi from './Team/dummy.jpg'
 import divya from './Team/dummy.jpg'
 
 
-import jayashri from './Team/FactAdv/dummy.jpg'
 import rachna from './Team/FactAdv/rachna.jpg'
 
 
 
-import vaishnavi from './Team/dummy.jpg'
-import netra from './Team/dummy.jpg'
-import saurabh from './Team/dummy.jpg'
-import siddhi from './Team/dummy.jpg'
-import shriya from './Team/dummy.jpg'
+import monika from './Team/dummy.jpg'
+import akshay from './Team/dummy.jpg'
+import tanmay from './Team/dummy.jpg'
+import harshada from './Team/dummy.jpg'
+import yadynee from './Team/dummy.jpg'
 import neel from './Team/dummy.jpg'
-import aditi from './Team/dummy.jpg'
-import nausheen from './Team/dummy.jpg'
+import aditi from './Team/aditi.jpg'
+import shubhangi from './Team/dummy.jpg'
+import reshav from './Team/reshav.jpg'
+import darshan from './Team/dummy.jpg'
+import sujal from './Team/dummy.jpg'
 
 
 
@@ -64,10 +64,6 @@ import c2 from './Gallery/pica7.jpg'
 
 export {
     logo,innobuzz,businessModel,aboutLogo,kautilya,director,Quote,
-    neel,
-    aditi,saurabh,prachi,siddhi,netra,
-    shriya,nausheen,rachna,jayshri,
-    satyam,vaishnavi,rutuja,amey,divya,piyush
-
-   , c2,c1,b3,b2,b1,a1,a2,a3,
+    neel,aditi,rachna,jayshri,monika, akshay, yadynee, harshada, darshan, shubhangi, tanmay, sujal,
+    satyam,rutuja,amey,divya,reshav, c2,c1,b3,b2,b1,a1,a2,a3,
 };

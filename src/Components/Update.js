@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 import {
-  VerticalTimeline,
+  // VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import { update } from "../Constants";

@@ -189,4 +189,4 @@ function Team() {
   );
 }
 
-export default Team; // ✅ Full updated code with smaller image and comments
+export default Team;

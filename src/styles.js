@@ -1,4 +1,4 @@
-import { text } from "@fortawesome/fontawesome-svg-core";
+// import { text } from "@fortawesome/fontawesome-svg-core";
 
 const styles = {
   paddingX: "sm:px-16 px-6",
